@@ -8,7 +8,6 @@
       <change afterPath="$PROJECT_DIR$/../../SS13/translate/resources/views/index.blade.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../SS13/translate/resources/views/result-translate.blade.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/Http/Services/CustomerService.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/Http/Services/Impl/CustomerServiceImpl.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/Repositories/CustomerRepository.php" afterDir="false" />
@@ -138,6 +137,8 @@
       <change afterPath="$PROJECT_DIR$/../../test/test1/resources/views/staffs/index.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../greeting/.editorconfig" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../greeting/.env.example" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../greeting/.gitattributes" beforeDir="false" />
@@ -336,7 +337,7 @@
     </leaf>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -588,12 +589,12 @@
       <workItem from="1562301582057" duration="4004000" />
       <workItem from="1562570857973" duration="1305000" />
       <workItem from="1562572218845" duration="2795000" />
-      <workItem from="1562575163436" duration="1584000" />
+      <workItem from="1562575163436" duration="2058000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9688000" />
+    <option name="totallyTimeSpent" value="10162000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="28" width="1920" height="1052" extended-state="6" />
